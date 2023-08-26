@@ -42,7 +42,7 @@ To use the JATE application, follow these steps:
 
 ## Deployed Application
 
-The JATE application is deployed on Heroku and can be accessed using the following link: [JATE App]()
+The JATE application is deployed on Heroku and can be accessed using the following link: [JATE App](https://polar-river-45135-78bf8de03ffb.herokuapp.com)
 
 ## License
 
