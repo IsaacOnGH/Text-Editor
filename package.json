@@ -22,6 +22,9 @@
     "concurrently": "^5.2.0",
     "css-loader": "^6.8.1",
     "nodemon": "^2.0.4",
-    "style-loader": "^3.3.3"
+    "style-loader": "^3.3.3",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0",
+    "node": "20.5.1"
   }
 }
